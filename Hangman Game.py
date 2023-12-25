@@ -9,7 +9,7 @@ cherry papaya berry peach lychee muskmelon'''
 someWords=someWords.split(' ')
 word=random.choice(someWords)
 
-print(word)
+# print(word)
 if __name__ == '__main__':
     print('Guess the word! HINT: word is a name of a fruit')
 
